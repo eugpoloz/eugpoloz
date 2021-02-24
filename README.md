@@ -3,7 +3,7 @@
 <!--
 **eugpoloz/eugpoloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Ginny (she/her), frontend dev from St. Petersburg, Russia currently working at First Line Software. I prefer rebase over merging, spaces over tabs, and cats over dogs. You can reach me through [linkedin](https://www.linkedin.com/in/eugpoloz/?locale=en_US) or shoot me an [email](mailto:eugpoloz@gmail.com).
+I'm Ginny (she/her), frontend dev from St. Petersburg, Russia. I prefer rebase over merging, spaces over tabs, and cats over dogs. You can reach me through [linkedin](https://www.linkedin.com/in/eugpoloz/?locale=en_US) or shoot me an [email](mailto:eugpoloz@gmail.com).
 
 #### 👩🏼‍💻 What I know best
 
