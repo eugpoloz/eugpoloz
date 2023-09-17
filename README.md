@@ -3,19 +3,26 @@
 <!--
 **eugpoloz/eugpoloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Ginny (she/her), frontend dev from St. Petersburg, Russia.
+I'm **Evgenia Polozova** (`she/her`), an experienced frontend engineer, digital a11y ❤️ expert, & speaker from St. Petersburg, Russia. You can call me Ginny, btw.
 
-I prefer rebase over merge, spaces over tabs, and cats over dogs. Web a11y is ❤️. 
+I prefer spaces to tabs, rebase to merge, and cats to dogs.
 
 You can reach me through [linkedin](https://www.linkedin.com/in/eugpoloz/?locale=en_US) or shoot me an [email](mailto:eugpoloz@gmail.com).
 
-### 🗣 Public speaking
+### 🖖 Public Speaking
 
-🇷🇺 [**Делаем доступной библиотеку компонентов — на примере VKUI** / Евгения Полозова (ВКонтакте)](https://youtu.be/0tUV8PVASnE)
-<br/>Watch me talk about web a11y for component libraries / design systems while using my precious [VKUI](https://github.com/VKCOM/vkui) as a case study. Huge kudos to FrontendConf 2022 Moscow for having me as their speaker!
+- 🇷🇺 [**Digital Accessibility: How to Get Started And Not Get Burned** @ HolyJS 2023 Spring](https://holyjs.ru/en/talks/a852bfeb647a4ab2a6d8911e97d1ade8/)
 
-### 👩🏼‍💻 Language stats
+- 🇷🇺 [**How to Switch to a Different Framework, Change the Team, And Not Go Crazy** @ HolyJS 2022 Autumn](https://holyjs.ru/en/talks/ee8e81cd942844da8cf341a826f927f8/)
 
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/(legacy)_AngularJS-informational?style=flat&logo=AngularJS&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=bb69b4)
+- 🇷🇺 [**Making Component Library Accessible — With VKUI As an Example** @ FrontentConf 2022](https://frontendconf.ru/moscow/2022/abstracts/9363)
+<br/>You can [watch this talk on YT](https://www.youtube.com/watch?v=0tUV8PVASnE). Huge kudos to FrontendConf 2022 Moscow for having me!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugpoloz&theme=dracula&hide=stars,commits,prs,issues,contribs" />
+### 💅 Projects
+
+- VK / VKontakte, [VKUI](https://github.com/VKCOM/vkui) ✨ Core Team
+- Skillbox Code Expert
+
+### 👩🏼‍💻 Languages & Frameworks
+
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/(legacy)_AngularJS-informational?style=flat&logo=AngularJS&logoColor=white&color=bb69b4) ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=bb69b4) 
